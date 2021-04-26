@@ -1,0 +1,33 @@
+li:hover{
+
+    background-color: #319df6;
+    cursor: pointer;
+
+}
+
+a:hover{
+
+    background-color: #319df6;
+    cursor: pointer;
+
+}
+
+button:hover{
+
+    background-color: #319df6;
+    cursor: pointer;
+
+}
+
+.twit-container{
+
+    background: #eeeeee;
+    display: flex;
+
+}
+
+.twit{
+
+    background: #ffffff;
+
+}
